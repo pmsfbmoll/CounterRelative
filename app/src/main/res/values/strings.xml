@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CounterRelative</string>
+    <string name="increment">INCREMENT</string>
+    <string name="toast">TOAST</string>
+    <string name="counter">0</string>
+</resources>
